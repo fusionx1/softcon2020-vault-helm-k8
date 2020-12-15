@@ -1,5 +1,5 @@
-# vault-k8-helm
-This repository contains the Terraform code to deploy HashiCorp Vault with raft storage backend in to a GKE K8s cluster using Terraform Helm provider.
+# Setting up Vault using Kubernetes and Helm Chart via Terraform
+This repository contains the Terraform code to deploy Vault with raft storage backend into a GKE Kubernetes cluster using Terraform.
 
 ## GCP Prep work
 Create GCP KMS,IAM and Service Account resources required and create GKE K8s cluster if not already available.
